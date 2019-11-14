@@ -1,0 +1,5 @@
+This document contains a URL to another GitHub repository which contains the coding and analysis of the survey results for belief update. 
+
+The URL is:
+
+https://github.com/paulfreund94/concrete_codes
